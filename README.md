@@ -3,7 +3,7 @@
 This repository is a submission for the Getting and Cleaning Data course project. It has instructions on how to run analysis on the Human Activity recognition dataset.
 
 Dataset:
-Human Activity Recognition Using Smartphones
+[Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 
 [CodeBook.md](https://github.com/arodputnam/Getting-Cleaning-Data-Course-Project-Tidy-Dataset/blob/main/Codebook) describes the variables, the data, and any transformations or work performed to clean up the data
