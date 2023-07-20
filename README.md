@@ -8,7 +8,7 @@ Human Activity Recognition Using Smartphones
 
 [CodeBook.md](https://github.com/arodputnam/Getting-Cleaning-Data-Course-Project-Tidy-Dataset/blob/main/Codebook) describes the variables, the data, and any transformations or work performed to clean up the data
 
-Getting and Cleaning Data Course Project Tidy Dataset.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
+run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
